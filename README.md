@@ -17,7 +17,11 @@ uv run pytest -v
 
 ## GitHub
 
-Remote repository name expected by the lab: `Git_CICD_Demo`.
+Repository: https://github.com/GaurangRGupta/Git_CICD_Demo
+
+Pull Request: https://github.com/GaurangRGupta/Git_CICD_Demo/pull/1
+
+Lab notes: [docs/observations.md](docs/observations.md)
 
 Workflow file: [`.github/workflows/python-ci.yml`](.github/workflows/python-ci.yml)
 
